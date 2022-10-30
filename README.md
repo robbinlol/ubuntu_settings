@@ -2,4 +2,13 @@
 
 ## clash
 
-不需要每次点开网络代理来设置了
+make 的一句话替代了每次点开网络代理来设置
+
+# 工具类
+
+- tldr
+- fish
+- anaconda
+- gnome-sushi
+- Albert
+- plank
